@@ -1,0 +1,5 @@
+arguments: align\align_dataset_mtcnn.py train_img align_img
+--------------------
+git hash: b''
+--------------------
+b''
